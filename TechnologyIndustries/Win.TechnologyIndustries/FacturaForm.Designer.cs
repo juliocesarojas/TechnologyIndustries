@@ -626,7 +626,7 @@
             this.pictureBox4.Image = global::Win.TechnologyIndustries.Properties.Resources.face;
             this.pictureBox4.Location = new System.Drawing.Point(32, 699);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(44, 39);
+            this.pictureBox4.Size = new System.Drawing.Size(42, 39);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox4.TabIndex = 32;
             this.pictureBox4.TabStop = false;
